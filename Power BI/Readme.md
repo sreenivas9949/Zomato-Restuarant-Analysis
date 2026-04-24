@@ -5,6 +5,6 @@ To achieve the objectives of the Zomato Restaurant Data Analysis project, variou
 
 ![DataModel](Datamodel.png) 
 
-### dashboard Snapshot :
+### Dashboard Snapshot :
 
 ![Dashboard](Dashboard.png) 
