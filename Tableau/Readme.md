@@ -4,3 +4,13 @@ To achieve the objectives of the Zomato Restaurant Data Analysis project, Calcul
 ### Union snapshot :
 
 ![Union](Union.png) 
+
+### Relationship Snapshot :
+
+![Relationship](Relationship_Snapshot.png) 
+
+Here Relationship is build between two tables.
+
+### Dashboard Snapshot :
+
+![Dashboard](Dashboard_Snapshot.png) 
