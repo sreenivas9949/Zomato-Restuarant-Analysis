@@ -3,4 +3,4 @@ To achieve the objectives of the Zomato Restaurant Data Analysis project, Calcul
 
 ### Union snapshot :
 
-![Union_snapshot](Union_snapshot.png) 
+![Union](Union.png) 
