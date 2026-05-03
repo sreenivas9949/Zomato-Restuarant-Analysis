@@ -13,4 +13,4 @@ Here Relationship is build between two tables.
 
 ### Dashboard Snapshot :
 
-![Dashboard](Dashboard_Snapshot.png) 
+![Dashboard](Dashboard.png) 
